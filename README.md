@@ -5,7 +5,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-🧑‍💻 About Me
+##🧑‍💻 About Me
 	-	🎓 CS student at EPFL (École polytechnique fédérale de Lausanne)
 	-	🌍 Interested in software engineering, systems programming, and applied AI
 	-	🛠️ Constantly learning and experimenting with new technologies
@@ -13,7 +13,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-⚡ Skills
+##⚡ Skills
 
 (Work in progress – will update as I grow)
 	-	Programming: C/C++, Python, Java, Bash
@@ -24,7 +24,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-🏗️ What I’ve Done
+##🏗️ What I’ve Done
 	- Automated deployment scripts with Bash & PowerShell
 	-	Worked with server setups and system administration
 	-	Developed basic web apps and APIs
@@ -32,7 +32,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-🌱 What I Can Do
+##🌱 What I Can Do
 	-	Learn quickly and adapt to new tech stacks
 	-	Solve complex problems with a structured approach
 	-	Collaborate effectively in teams
@@ -40,7 +40,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-📫 How to Reach Me
+##📫 How to Reach Me
 	-	GitHub: @victorfrangov
 	-	LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
 	-	Email: victor.frangov@gmail.com
