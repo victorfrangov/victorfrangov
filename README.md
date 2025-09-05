@@ -16,11 +16,11 @@ I’m passionate about technology, problem-solving, and building projects that m
 ⚡ Skills
 
 (Work in progress – will update as I grow)
-	1	Programming: C/C++, Python, Java, Bash
-	2	Web Development: HTML, CSS, React, Node.js, JavaScript, TypeScript
-	3	Databases: PostgreSQL
-	4	Tools: Git, Linux, VS Code, Visual Studio 2022,
-	5	Other: Shell scripting, automation, cloud basics (Firebase, Google Cloud), AI, Machine Learning
+	-	Programming: C/C++, Python, Java, Bash
+	-	Web Development: HTML, CSS, React, Node.js, JavaScript, TypeScript
+	-	Databases: PostgreSQL
+	-	Tools: Git, Linux, VS Code, Visual Studio 2022,
+	-	Other: Shell scripting, automation, cloud basics (Firebase, Google Cloud), AI, Machine Learning
 
 ⸻
 
