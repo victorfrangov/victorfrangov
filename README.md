@@ -6,14 +6,14 @@ I’m passionate about technology, problem-solving, and building projects that m
 ⸻
 
 ## 🧑‍💻 About Me
-	🎓 CS student at EPFL (École polytechnique fédérale de Lausanne)
-	🌍 Interested in software engineering, systems programming, and applied AI
-	🛠️ Constantly learning and experimenting with new technologies
-	✈️ Moved from Montréal to Lausanne for studies
+	CS student at EPFL (École polytechnique fédérale de Lausanne)
+	Interested in software engineering, systems programming, and applied AI
+	Constantly learning and experimenting with new technologies
+	✈Moved from Montréal to Lausanne for studies
 
 ⸻
 
-## ⚡ Skills
+## Skills
 
     (Work in progress – will update as I grow)
 	Programming: C/C++, Python, Java, Bash
@@ -24,23 +24,23 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ⸻
 
-## 🏗️ What I’ve Done
-	- Automated deployment scripts with Bash & PowerShell
-	-	Worked with server setups and system administration
-	-	Developed basic web apps and APIs
-	-	Built data analysis projects in Python
+## What I’ve Done
+	Automated deployment scripts with Bash & PowerShell
+	Worked with server setups and system administration
+	Developed basic web apps and APIs
+	Built data analysis projects in Python
 
 ⸻
 
-## 🌱 What I Can Do
-	-	Learn quickly and adapt to new tech stacks
-	-	Solve complex problems with a structured approach
-	-	Collaborate effectively in teams
-	-	Take projects from idea → prototype → deployment
+## What I Can Do
+	Learn quickly and adapt to new tech stacks
+	Solve complex problems with a structured approach
+	Collaborate effectively in teams
+	Take projects from idea → prototype → deployment
 
 ⸻
 
-## 📫 How to Reach Me
-	-	GitHub: @victorfrangov
-	-	LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
-	-	Email: victor.frangov@gmail.com
+## How to Reach Me
+	GitHub: @victorfrangov
+	LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
+	Email: victor.frangov@gmail.com
