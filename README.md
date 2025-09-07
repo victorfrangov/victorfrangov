@@ -20,7 +20,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 	Web Development: HTML, CSS, React, Node.js, JavaScript, TypeScript
 	Databases: PostgreSQL
 	Tools: Git, Linux, VS Code, Visual Studio 2022,
-	Other: Shell scripting, automation, cloud basics (Firebase, Google Cloud), AI, Machine Learning
+	Other: Firebase, Google Cloud, Machine Learning, Active Directory, SCCM, Fortinet, Cisco
 
 ⸻
 
