@@ -9,7 +9,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 	CS student at EPFL (École polytechnique fédérale de Lausanne)
 	Interested in software engineering, systems programming, and applied AI
 	Constantly learning and experimenting with new technologies
-	✈Moved from Montréal to Lausanne for studies
+	Moved from Montréal to Lausanne for studies
 
 ⸻
 
