@@ -41,6 +41,7 @@ I’m passionate about technology, problem-solving, and building projects that m
 ⸻
 
 ## How to Reach Me
-	GitHub: @victorfrangov
-	LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
-	Email: victor.frangov@gmail.com
+
+GitHub: @victorfrangov
+LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
+Email: victor.frangov@gmail.com
