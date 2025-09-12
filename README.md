@@ -3,9 +3,10 @@
 I’m originally from Montréal, Canada 🇨🇦 and currently studying Computer Science at EPFL in Switzerland 🇨🇭.
 I’m passionate about technology, problem-solving, and building projects that make life easier and more efficient.
 
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
 ⸻
 
-## 🧑‍💻 About Me
+## About Me
 	CS student at EPFL (École polytechnique fédérale de Lausanne)
 	Interested in software engineering, systems programming, and applied AI
 	Constantly learning and experimenting with new technologies
