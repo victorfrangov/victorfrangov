@@ -42,8 +42,6 @@ I’m passionate about technology, problem-solving, and building projects that m
 	<img alt="CSS" src="https://img.shields.io/badge/CSS-639?style=flat-square&logo=css&logoColor=fff" />
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff" />
 	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
-	<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-	<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" />
 </p>
 ⸻
 
@@ -84,6 +82,11 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ## How to Reach Me
 
+<p>
+	<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> +41 77 290 10 86	
+	<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /> [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
+</p>
+	
 GitHub: @victorfrangov
 LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
 Email: victor.frangov@gmail.com
