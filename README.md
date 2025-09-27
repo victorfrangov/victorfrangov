@@ -82,11 +82,8 @@ I’m passionate about technology, problem-solving, and building projects that m
 
 ## How to Reach Me
 
-<p>
-	<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> +41 77 290 10 86	
-	<img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=fff" /> [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
-</p>
+<img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /> +41 77 290 10 86
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/victor-frangov-4b974a147/)
 	
 GitHub: @victorfrangov
-LinkedIn: [Victor Frangov](https://www.linkedin.com/in/victor-frangov-4b974a147/)
-Email: victor.frangov@gmail.com
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.frangov@gmail.com)
