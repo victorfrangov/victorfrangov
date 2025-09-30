@@ -43,24 +43,6 @@ I’m passionate about technology, problem-solving, and building projects that m
 	<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff" />
 	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
 </p>
-⸻
-
-## About Me
-	CS student at EPFL (École polytechnique fédérale de Lausanne)
-	Interested in software engineering, systems programming, and applied AI
-	Constantly learning and experimenting with new technologies
-	Moved from Montréal to Lausanne for studies
-
-⸻
-
-## Skills
-
-    (Work in progress – will update as I grow)
-	Programming: C/C++, Python, Java, Bash
-	Web Development: HTML, CSS, React, Node.js, JavaScript, TypeScript
-	Databases: PostgreSQL
-	Tools: Git, Linux, VS Code, Visual Studio 2022,
-	Other: Firebase, Google Cloud, Machine Learning, Active Directory, SCCM, Fortinet, Cisco
 
 ⸻
 
