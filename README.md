@@ -44,24 +44,6 @@ I’m passionate about technology, problem-solving, and building projects that m
 	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
 </p>
 
-⸻
-
-## What I’ve Done
-	Automated deployment scripts with Bash & PowerShell
-	Worked with server setups and system administration
-	Developed basic web apps and APIs
-	Built data analysis projects in Python
-
-⸻
-
-## What I Can Do
-	Learn quickly and adapt to new tech stacks
-	Solve complex problems with a structured approach
-	Collaborate effectively in teams
-	Take projects from idea → prototype → deployment
-
-⸻
-
 ## How to Reach Me
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/41772901086)
