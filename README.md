@@ -44,8 +44,6 @@ I’m passionate about technology, problem-solving, and building projects that m
 	<img alt="Ollama" src="https://img.shields.io/badge/Ollama-fff?style=flat-square&logo=ollama&logoColor=000" />
 </p>
 
-## How to Reach Me
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/41772901086)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-frangov/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victorfrangov)
